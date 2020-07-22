@@ -4,7 +4,7 @@
     <HeadWrapper 
       name='Your Name'
       title='Your Job Title'
-      userImgUrl='Image URL Address'
+      userImgURL='Image URL Address'
       phone='Your Contact Number'
       email='Your Email Contact'
     />
